@@ -72,3 +72,4 @@ while cap.isOpened():
 # Release video and close OpenCV windows
 cap.release()
 cv2.destroyAllWindows()
+#madda gudu dengeyy ra puka
